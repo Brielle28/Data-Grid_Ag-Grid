@@ -1,0 +1,8 @@
+.heading{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
